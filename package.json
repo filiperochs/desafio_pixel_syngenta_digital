@@ -1,0 +1,10 @@
+{
+  "name": "desafio_pixel_syngenta_digital",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "bmp-js": "^0.1.0"
+  }
+}
